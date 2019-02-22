@@ -24,12 +24,12 @@
 6. Run the created Run configuration.
 8. SpringBoot REST application will be started in an embedded tomcat server with port 8090
 ---
-The default port number is port:**8090**
+* The default port number is port:**8090**
 ---
 **REST Endpoints**
 
-POST request to http://localhost:8090 with the input json.
-GET request to http://localhost:8090 with an arbitrary number of query parameters (rules to match).
+* POST request to http://localhost:8090 with the input json.
+* GET request to http://localhost:8090 with an arbitrary number of query parameters (rules to match).
 ---
 **Tools**
 * Use a REST Client like Postman
